@@ -1,0 +1,24 @@
+# File IO basics
+"""
+"r"  - Open file for reading - default
+"w" - Open a file for writing
+"x" - Create file if not exists
+"a" - Add more content to a file
+"t" - text mode - default
+"b" - binary mode
+"+" - read and write mode
+"""
+# print(function.__doc__)
+
+# f = open("file2.txt.txt", "w")
+# a = f.write("Hello Bro, How are you?\n")
+# print(a)
+# f.close()
+
+#
+# # Handle read and write both
+# f = open("file2.txt.txt", "r+")
+# print(f.read)
+
+# n= input("Write number: ")
+
